@@ -44,9 +44,9 @@
 
 ![pic_3](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/3.png)
 
-![pic_4](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/2.png)
+![pic_4](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/4.png)
 
-![pic_5](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/2.png)
+![pic_5](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/5.png)
 
 ## Install
 
