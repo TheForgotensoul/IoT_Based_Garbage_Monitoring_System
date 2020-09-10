@@ -57,6 +57,7 @@
 > - Download and install VScode from their
 >   **[website](https://code.visualstudio.com/)**.
 > - Create an account in **[Firebase](https://firebase.google.com/)**. This will give acces to host a website and to get a domain.
+> - Check this **[Github repo](https://github.com/tzapu/WiFiManager)** to connect Node_MCU to WIFI.
 
 ## Usage
 
